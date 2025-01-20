@@ -1,6 +1,6 @@
 Here's a README.md for your "Talk To Database Aug.2024" project:
 
-```markdown
+
 # Talk To Database Aug.2024
 
 ## Overview
