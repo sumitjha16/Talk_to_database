@@ -1,0 +1,16 @@
+langchain_core
+langchain_community
+langchain_groq
+langchain
+python-dotenv
+transformers
+langchain_huggingface
+sentence-transformers
+streamlit
+langchain_core
+langchain-experimental
+mysql-connector-python
+pymysql
+tiktoken
+google-generativeai
+SQLAlchemy
